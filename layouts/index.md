@@ -1,8 +1,9 @@
 
----
-title: My page
-layout: default
----
+-----------------
+|title: My page |
+-----------------
+|layout: default|
+-----------------
 
 # {{ page.title }}
 
